@@ -1,5 +1,5 @@
 # SIMPLE CALCULATOR 
-This is my first github post
+#This is my first github post
 print("THIS IS A CALCULATOR. PLEASE CHOOSEYOUR DESIRED OPERATOR:\n"\
 "1. ADDITION\n"\
 "2. SUBTRACTION\n"\
